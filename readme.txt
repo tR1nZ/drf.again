@@ -1,0 +1,1 @@
+добавлены файлы docker-compose.yml, nginx/nginx.conf, Dockerfile, frontend/nginx.conf,  frontend/Dockerfile
